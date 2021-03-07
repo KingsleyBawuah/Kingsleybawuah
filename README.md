@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingsleybawuah&label=Profile%20views&color=0e75b6&style=flat" alt="kingsleybawuah" /> </p>
 
-<p align="left">- 🔭 I’m currently working at **Caring.com**</p>
+- 🔭 I’m currently working at **Caring.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
