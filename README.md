@@ -9,3 +9,4 @@
 <h3 align="left">Statistics:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingsleyBawuah&theme=highcontrast&hide_border=true" alt="KingsleyBawuah" /></p>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018ba195-0064-464b-bcfa-5bf60e3c5ce6/487499f7-5d95-4806-8376-5698a0be10ed.png" /></a>
