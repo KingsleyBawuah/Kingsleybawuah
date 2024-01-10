@@ -9,3 +9,4 @@
 
 <h3 align="left">Statistics:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingsleyBawuah&theme=highcontrast&hide_border=true" alt="KingsleyBawuah" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingsleyBawuah&theme=dark&show_icons=true)
