@@ -1,5 +1,5 @@
 <h1 align="left">Yo 👋🏿, I'm Kingsley Bawuah</h1>
-<h3 align="left">A passionate full stack developer who loves Go, Typescript, and solving all types of problems.</h3>
+<h3 align="left">A passionate developer who loves Go, Typescript, and solving all types of problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingsleybawuah&label=Profile%20views&color=0e75b6&style=flat" alt="kingsleybawuah" /> </p>
 <a href="https://wakatime.com/@018ba195-0064-464b-bcfa-5bf60e3c5ce6"><img src="https://wakatime.com/badge/user/018ba195-0064-464b-bcfa-5bf60e3c5ce6.svg" alt="Total time coded since Nov 5 2023" /></a>
